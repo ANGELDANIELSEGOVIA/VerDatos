@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWLPzmyzHHL604fOl2rwAZoqjZDUV7g7D9rivNCgaqiCEqqoNqMi81M6fnOXMXNe1pS3SpV2fwomBF/pub?output=csv" style="width:600px; height:450px;" frameborder="0"></iframe>
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+For more details see [GitHub Flavored Markdown](https://docs.google.com/spreadsheets/d/e/2PACX-1vQWLPzmyzHHL604fOl2rwAZoqjZDUV7g7D9rivNCgaqiCEqqoNqMi81M6fnOXMXNe1pS3SpV2fwomBF/pubhtml).
 
 ### Jekyll Themes
 
